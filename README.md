@@ -58,8 +58,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/preview1.png)
+![Screenshot 2](screenshots/preview2.png)
 
 ## Demo
 
