@@ -1,8 +1,8 @@
 ---
 
-# HiLinks.
+# HiLink.
 
-HiLinks is a modern travel application built with Next.js 14, React.js, TypeScript, and Tailwind CSS. It provides users with a seamless and intuitive platform to plan their travel itineraries, explore destinations, and book accommodations.
+HiLink is a modern travel application built with Next.js 14, React.js, TypeScript, and Tailwind CSS. It provides users with a seamless and intuitive platform to plan their travel itineraries, explore destinations, and book accommodations.
 
 ## Features
 
@@ -18,13 +18,13 @@ HiLinks is a modern travel application built with Next.js 14, React.js, TypeScri
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Psamcyite/hilinks.git
+git clone https://github.com/Psamcyite/hilink.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd hilinks
+cd hilink
 ```
 
 3. Install dependencies:
@@ -63,6 +63,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Demo
 
-A live demo of the app is available [here](https://your-demo-url.com).
+A live demo of the app is available [here](https://hilink-psamcyite.vercel.app).
 
 ---
