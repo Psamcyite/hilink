@@ -51,3 +51,5 @@ const Guide = () => {
     </section>
   )
 }
+
+export default Guide;
